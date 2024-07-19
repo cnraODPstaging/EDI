@@ -1,0 +1,67 @@
+{
+	"@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+	"@type": "dcat:Catalog",
+	"conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+	"describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+	"dataset": [
+		{
+			"@type": "dcat:Dataset",
+			"identifier": "https://www.arcgis.com/home/item.html?id=15eda96038304c29894ac9d9338a7e13",
+			"landingPage": "https://cnra-gis-open-data-staging-cnra.hub.arcgis.com/maps/CALFIRE-Forestry::mosquito-fire-structure-status-map-placer-county",
+			"title": "Mosquito Fire Structure Status Map - Placer County",
+			"description": "<p style='margin-bottom:0in;'><span style='font-size:12.0pt; font-family:&quot;Arial&quot;,sans-serif; color:#666666; background:white;'>This map feeds into a web app\nthat allows a user to examine the known status of structures damaged by the\nwildfire. If a structure point does not appear on the map it may still have\nbeen impacted by the fire. Specific addresses can be searched for in the search\nbar. Use the imagery and topographic basemaps and photos to\npositively identify a structure. Photos may only be available for damaged and\ndestroyed structures.</span></p><p style='margin-bottom:0in;'><span style='color:rgb(102, 102, 102); font-family:Arial, sans-serif; font-size:12pt;'><br /></span></p><p style='margin-bottom:0in;'><span style='color:rgb(102, 102, 102); font-family:Arial, sans-serif; font-size:12pt;'>For more information about the wildfire\nresponse efforts, visit the CAL FIRE </span><a href='https://www.fire.ca.gov/incidents/' style='font-family:Arial, sans-serif; font-size:12pt;' target='_blank' rel='nofollow ugc noopener noreferrer'><span style='color:#0079C1;'>incident page</span></a><span style='color:rgb(102, 102, 102); font-family:Arial, sans-serif; font-size:12pt;'>.</span></p>",
+			"keyword": [
+				"Damage Inspection",
+				"DINS",
+				"2022",
+				"Office of the State Fire Marshal"
+			],
+			"issued": "2022-09-10T00:19:44.000Z",
+			"modified": "2024-06-23T00:23:39.000Z",
+			"publisher": {
+				"name": "California Department of Forestry and Fire Protection"
+			},
+			"contactPoint": {
+				"fn": "dins.CALFIRE",
+				"hasEmail": "gis_admin@water.ca.gov",
+				"@type": "vcard:Contact"
+			},
+			"accessLevel": "public",
+			"spatial": {
+				"coordinates": [
+					[
+						-121.4089,
+						38.5446
+					],
+					[
+						-119.9615,
+						39.4571
+					]
+				],
+				"type": "envelope"
+			},
+			"license": "<p></p><p style='text-align:left;'><i>The State of California and the Department of Forestry and Fire Protection make no representations or warranties regarding the accuracy of data or maps. Neither the State nor the Department shall be liable under any circumstances for any direct, special, incidental, or consequential damages with respect to any claim by any user or third party on account of, or arising from, the use of data or maps.</i></p> <p></p><p style='text-align:left;'><i>For more information about this product, date or terms of use, contact <a href='mailto:calfiredsisupport@fire.ca.gov' rel='nofollow ugc'>calfiredsisupport@fire.ca.gov</a>.</i></p> <img alt='CAL FIRE Logo' height='100' src='https://www.maps.arcgis.com/sharing/rest/content/items/7abdf838063047019bd143323032cd43/data' width='100' /> <img alt='CAL FIRE DINS Logo' height='75' src='https://www.arcgis.com/sharing/rest/content/items/6a4dc143451e438da0b231ff1d9488c7/data' width='75' />",
+			"metadataPubDate": "null",
+			"metadataReviseDate": "2024-06-23T00:23:39.000Z",
+			"distribution": [
+				{
+					"@type": "dcat:Distribution",
+					"title": "Metadata",
+					"format": "Web Page",
+					"mediaType": "text/xml",
+					"accessURL": "https://www.arcgis.com/sharing/rest/content/items/15eda96038304c29894ac9d9338a7e13/info/metadata/metadata.xml?format=default&output=html"
+				},
+				{
+					"@type": "dcat:Distribution",
+					"title": "ArcGIS Hub Dataset",
+					"format": "Web Page",
+					"mediaType": "text/html",
+					"accessURL": "https://cnra-gis-open-data-staging-cnra.hub.arcgis.com/maps/CALFIRE-Forestry::mosquito-fire-structure-status-map-placer-county"
+				}
+			],
+			"theme": [
+				"geospatial"
+			]
+		}
+	]
+}	
