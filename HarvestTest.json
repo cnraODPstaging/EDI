@@ -1,0 +1,35 @@
+{"conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+ "dataset": [
+		{
+		"accessLevel":"public",
+		"bureauCode":["010:86"],
+		"contactPoint": {
+						"@type": "vcard:Contact",
+						"fn": "Jane Doe",
+						"hasEmail": "mailto:jane.doe@agency.gov"
+					},
+		"description":"This dataset contains a list of vegetables, including nutrition information and seasonality. Includes details on tomatoes, which are really fruit but considered a vegetable in this dataset.",
+		"identifier":"http://dx.doi.org/10.7927/H4PZ56R2",
+		"keyword":["vegetables","veggies","greens","leafy","spinach","kale","nutrition"],
+		"modified":"2012-01-15",
+		"programCode":["015:001","015:002"],
+		"publisher": {
+		  "@type": "org:Organization",
+		  "name": "Test Organization 2",
+		  "subOrganizationOf": {
+			"@type": "org:Organization",
+			"name": "Office of Citizen Services and Innovative Technologies",
+			"subOrganizationOf": {
+			  "@type": "org:Organization",
+			  "name": "General Services Administration",
+			  "subOrganizationOf": {
+				"@type": "org:Organization",
+				"name": "U.S. Government"
+			  }
+			}
+		  }
+		},
+		"title":"Types of Vegetables"
+		}
+	]
+}
