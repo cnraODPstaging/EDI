@@ -1,0 +1,146 @@
+{
+	  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+	  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+	  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+	  "@type": "dcat:Catalog",
+	  "dataset": [
+		{
+		  "@type": "dcat:Dataset",
+		  "title": "2021-2022 West False River Emergency Drought Barrier water quality, flow, and fish monitoring",
+		  "description": "To manage the critically low 2021 water supply for beneficial uses, DWR installed the temporary emergency drought barrier (EDB) on West False River in the Sacramento–San Joaquin Delta (Delta), approximately 5 miles south of Rio Vista, California, in Contra Costa County in June 2021. To monitor the effectiveness and impacts of the EBD, a monitoring program was initiated to track changes in hydrodynamics, water quality, fish, harmful algal blooms, and aquatic weeds in the vicinity of the EDB. The EDB was left in place during the winter of 2021-2022 and removed in fall of 2022. This data set includes all data collected as part of that monitoring program and subsets of ongoing monitoring programs that were used in the final effectiveness report for the EDB.",
+		  "issued": "2024-06-04",
+		  "modified": "2024-06-04",
+		  "accessLevel": "private",
+		  "identifier": "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2",
+		  "landingPage": "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2",
+		  "license": "[license]",
+		  "spatial": "[spatial]",
+		  "temporal": "2014-01-01 / 2022-12-31",
+		  "publisher": {
+			"@type": "org:Organization",
+			"name": "Test Organization 2"
+		  },
+		  "accrualPeriodicity": "This dataset will be updated annually as long as the West False River Barrier is in place.",
+		  "contactPoint": {
+			"@type": "vcard:Contact",
+			"fn": "Hartman, Rosemary K; Bosworth, David; Huston, David; Frantzich, Jared; Salman, Tyler; Ateljevich, Eli; Clark, Kevin; Bergman, Paul; Klambach, Andrew; Wilder, Rick; Silva, Matthew; Hassrick, Jason; Hinkelman, Travis; Spaulding, Taylor",
+			"hasEmail": "Rosemary.Hartman@water.ca.gov"
+		  },
+		  "distribution": [
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "Barrierstations",
+			  "description": "Lookup table providing latitudes and longitudes for stations referenced in other data sets",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/147bd1551f87b82e4946852a5c313da5"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "BarrierTNS",
+			  "description": "Catch of fish collected by the CDFW Summer Townet Survey in the area surrounding the Barrier from 2014-2021.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/1953a2a8b09d172049cd165b74aa175d"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "ContinuousWQ",
+			  "description": "Continuous water quality as collected by a YSI sonde, 6600 series or EXO.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/9f489e06694d516bd3240fa90c39cb94"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "CVP and SWP fish salvage",
+			  "description": "Central Valley Project and State Water Project fish salvage data for ESA-listed fishspecies.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/1e20e2ac8e093329e137b76f90c027af"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "Discrete Water Quality",
+			  "description": "Nutrients and discrete water quality samples.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/96b6d65a656a87b69236569998937d74"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "DJFMP beach seines",
+			  "description": "Beach seine catch from the Delta Juvenile Fish Monitoring Program in the regions surrounding the West False River Emergency Drought Barrier",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/d1c59e6c9af348bea7e26e0e6a979756"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "EDB_Turbidity_2022",
+			  "description": "Turbidity monitoring during barrier construction",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/ba667bda7bdc0c65be8bea519ec16994"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "Hydrodynamics_Data_2015_2020_2021",
+			  "description": "Gage height, water velocity, discharge, and net flow data for stations in the vicinity of the emergency drought barrier.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/b421e36c2db9e0edfc01924e89b3468b"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "Predation Data 2022",
+			  "description": "Results of predation event recorder experiments conducted during barrier installation.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/763093b29bafe3c3b15cebee24a92b2d"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "schism_ec_difference",
+			  "description": "The difference in specific conductance in uS/cm between a simulation with the drought barrier and a no action case without the barrier.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/6a4e1d48b92f3b86bcf9c728fa203b08"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "schism_station_output",
+			  "description": "SCHISM modeled salinity for Old River at Bacon Island, Clifton Court and Piper Slough at Bethel Island for various barrier scenarios.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/a0285ec86aca8d80d461f7afc041d5d5"
+			},
+			{
+			  "@type": "dcat:Distribution",
+			  "mediaType": "column",
+			  "format": "column",
+			  "title": "Zooplankton",
+			  "description": "Zooplankton samples collected in the vicinity of the emergency drought barrier.",
+			  "downloadURL": "https://pasta.lternet.edu/package/data/eml/edi/1162/2/71ef93faee3f7c011b5e991af80ff603"
+			}
+		  ],
+		  "keyword": [
+			"barrier",
+			"drought",
+			"estuaries",
+			"fishes",
+			"hydrodynamics",
+			"Interagency Ecological Program",
+			"predation",
+			"salinity",
+			"turbidity",
+			"Water Management",
+			"water quality"
+		  ],
+		  "theme": [
+			"Water"
+		  ]
+		}
+	]
+}
+	
