@@ -14,7 +14,7 @@
 		  "identifier": "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2",
 		  "landingPage": "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2",
 		  "license": "[license]",
-		  "spatial": "37.5834,-124.2116,41.9984,-119.7949",
+		  "spatial": "-121.6238,37.7703,-121.6008,37.7811",
 		  "temporal": "2014-01-01 / 2022-12-31",
 		  "publisher": {
 			"@type": "org:Organization",
