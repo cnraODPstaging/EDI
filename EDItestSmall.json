@@ -14,7 +14,7 @@
 		  "identifier": "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2",
 		  "landingPage": "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2",
 		  "license": "[license]",
-		  "spatial": "{\"type\":\"Polygon\",\"coordinates\":[[[-119.8001887494534,36.930390710674395],[-119.8001887494534,37.097067841929935],[-119.48974690136998,37.097067841929935],[-119.48974690136998,36.930390710674395],[-119.8001887494534,36.930390710674395]]]}",
+		  "spatial": "-121.3173, 37.9522, -121.556, 38.0597",
 		  "temporal": "2014-01-01 / 2022-12-31",
 		  "publisher": {
 			"@type": "org:Organization",
