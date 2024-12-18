@@ -10,14 +10,15 @@
             "issued": "2020-09-02",
             "temporal": "1997-08-04 to 2018-11-08",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "dissolved oxygen",
-                "water quality",
+                "dissolved_oxygen",
+                "water_quality",
                 "transects",
                 "monitoring",
                 "rivers",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "California Department of Water Resources"
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "California_Department_of_Water_Resources"
             ],
             "spatial": "-121.556, 37.9522, -121.3173, 38.0597",
             "distribution": [
@@ -37,11 +38,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources",
-                "contactPoint": {
-                    "fn": "Lesmeister, Sarah",
-                    "hasEmail": "sarah.lesmeister@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program (IEP); Lesmeister, Sarah; Rinde, Jenna. 2020-09-02. Interagency Ecological Program: Discrete dissolved oxygen monitoring in the Stockton Deep Water Ship Channel, collected by the Environmental Monitoring Program, 1997-2018. California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.276.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Lesmeister, Sarah",
+                "hasEmail": "sarah.lesmeister@water.ca.gov"
             }
         },
         {
@@ -52,20 +54,21 @@
             "issued": "2024-10-10",
             "temporal": "2022-01-03 to 2022-05-12",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Longfin Smelt",
+                "Longfin_Smelt",
                 "LES",
                 "IEP",
                 "CDFW",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
                 "estuaries",
-                "endangered species",
+                "endangered_species",
                 "fishes",
                 "tides",
                 "turbidity",
                 "temperature",
                 "larvae",
-                "population and community properties"
+                "population_and_community_properties"
             ],
             "spatial": "-121.69825061059292, 37.82670305362522, -121.51003147531748, 38.10653111546934",
             "distribution": [
@@ -106,11 +109,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Gilbert, Morgan",
-                    "hasEmail": "morgan.gilbert@wildlife.ca.gov"
-                }
+                "name": "Gilbert, Morgan; Malinich, Timothy; Griffiths, Kyle; Afentoulis, Virginia. 2024-10-10. Interagency Ecological Program San Francisco Estuary Larval Entrainment Study (LES). California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1770.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Gilbert, Morgan",
+                "hasEmail": "morgan.gilbert@wildlife.ca.gov"
             }
         },
         {
@@ -121,19 +125,20 @@
             "issued": "2023-06-08",
             "temporal": "1950-12-02 to 2022-12-20",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "estuaries",
-                "water quality",
-                "water temperature",
-                "secchi depth",
+                "water_quality",
+                "water_temperature",
+                "secchi_depth",
                 "algae",
-                "chlorophyll a",
-                "specific conductivity",
+                "chlorophyll_a",
+                "specific_conductivity",
                 "salinity",
                 "surveys",
-                "long term monitoring",
+                "long_term_monitoring",
                 "nutrients",
-                "data integration"
+                "data_integration"
             ],
             "spatial": "-122.471667, 37.471667, -121.17609, 38.97131",
             "distribution": [
@@ -153,11 +158,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; United States Fish and Wildlife Service; California Department of Fish and Wildlife; Interagency Ecological Program (IEP); United States Bureau of Reclamation; University of California, Davis; United States Geological Survey; U.S. Geological Survey; California State Water Resources Control Board",
-                "contactPoint": {
-                    "fn": "Bashevkin, Samuel",
-                    "hasEmail": "sam.bashevkin@waterboards.ca.gov"
-                }
+                "name": "Bashevkin, Samuel; Bosworth, David; Perry, Sarah; Stumpner, Elizabeth; Hartman, Rosemary; Battey, Morgan; Perry, Sarah; Interagency Ecological Program (IEP); Damon, Lauren; Chorazyczewski, Adam; Interagency Ecological Program (IEP); McKenzie, Ryan; Speegle, Jonathan; Nanninga, Adam; Cook, John; Hagen, Jackie; Mahardja, Brian; United States Fish and Wildlife Service; Senegal, Taylor; Mckenzie, Ryan; Speegle, Jonathan; Perales, Brynn; Bridgman, David; Erly, Kate; Staiger, Stephen; Arrambide, Adriana; Gilbert, Morgan; Interagency Ecological Program (IEP); Lesmeister, Sarah; Rinde, Jenna; Interagency Ecological Program; Pien, Catarina; Adams, Jesse; Kwan, Nicole; Interagency Ecological Program; Pien, Catarina; Kwan, Nicole; Damon, Lauren; Chorazyczewski, Adam; Damon, Lauren; Temple, Trishelle; Chorazyczewski, Adam; J, Cloern; T, Schraga; T, Schraga; E, Nejad; C, Martin; J, Cloern; CDFW; CDFW; CDFW; Teejay, O'Rear; John, Durand; Peter, Moyle; USBR; R, Dahlgren; L, Loken; E, Van Nieuwenhuyse; U.S. Geological Survey; CDWR. 2023-06-08. Six decades (1959-2022) of water quality in the upper San Francisco Estuary: an integrated database of 16 discrete monitoring surveys in the Sacramento San Joaquin Delta, Suisun Bay, Suisun Marsh, and San Francisco Bay. United States Fish and Wildlife Service; University of California, Davis; California Department of Water Resources; California Department of Fish and Wildlife; U.S. Geological Survey; United States Bureau of Reclamation; California State Water Resources Control Board; United States Geological Survey; Interagency Ecological Program (IEP). https://portal.edirepository.org/nis/mapbrowse?packageid=edi.731.7&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Bashevkin, Samuel",
+                "hasEmail": "sam.bashevkin@waterboards.ca.gov"
             }
         },
         {
@@ -168,13 +174,14 @@
             "issued": "2023-11-01",
             "temporal": "2023 to 2023",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "san francisco estuary",
+                "san_francisco_estuary",
                 "CDFW",
                 "assemblage",
                 "community",
-                "AFS Experimental Gillnet",
-                "striped bass",
+                "AFS_Experimental_Gillnet",
+                "striped_bass",
                 "hitch",
                 "gillnet",
                 "fishes"
@@ -204,11 +211,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Stompe, Dylan",
-                    "hasEmail": "dylan.stompe@wildlife.ca.gov"
-                }
+                "name": "Stompe, Dylan; Hobbs, James. 2023-11-01. California Department of Fish and Wildlife Enhanced Large Fish Study, San Francisco Estuary, California, 2023 Gillnet Survey. California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1505.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Stompe, Dylan",
+                "hasEmail": "dylan.stompe@wildlife.ca.gov"
             }
         },
         {
@@ -219,22 +227,23 @@
             "issued": "2024-02-28",
             "temporal": "1975-05-19 to 2023-12-31",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "bivalves",
                 "annelids",
                 "oligochaetes",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "California Department of Water Resources",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "California_Department_of_Water_Resources",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
                 "benthos",
-                "aquatic invertebrates",
+                "aquatic_invertebrates",
                 "abundance",
                 "animals",
-                "aquatic ecosystems",
+                "aquatic_ecosystems",
                 "arthropods",
                 "communities",
-                "community composition",
+                "community_composition",
                 "crustaceans",
                 "diversity",
                 "ecology",
@@ -252,9 +261,9 @@
                 "rivers",
                 "snails",
                 "species",
-                "species abundance",
-                "species composition",
-                "species diversity",
+                "species_abundance",
+                "species_composition",
+                "species_diversity",
                 "surveys"
             ],
             "spatial": "-122.393, 37.678, -121.262, 38.369",
@@ -310,11 +319,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; IEP",
-                "contactPoint": {
-                    "fn": "Wells, Elizabeth",
-                    "hasEmail": "elizabeth.wells@water.ca.gov"
-                }
+                "name": "Wells, Elizabeth; Interagency Ecological Program. 2024-02-28. Interagency Ecological Program: Benthic invertebrate monitoring in the Sacramento-San Joaquin Bay-Delta, collected by the Environmental Monitoring Program, 1975-2023.. IEP; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1036.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Wells, Elizabeth",
+                "hasEmail": "elizabeth.wells@water.ca.gov"
             }
         },
         {
@@ -325,24 +335,25 @@
             "issued": "2023-12-19",
             "temporal": "1998-01-01 to 2022-12-31",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "Inundation",
                 "flooding",
-                "Yolo Bypass",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
+                "Yolo_Bypass",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
                 "IEP",
-                "California Department of Water Resources",
-                "Yolo Bypass Fish Monitoring Program",
+                "California_Department_of_Water_Resources",
+                "Yolo_Bypass_Fish_Monitoring_Program",
                 "floodplain",
-                "aquatic ecosystems",
+                "aquatic_ecosystems",
                 "freshwater",
                 "ecology",
                 "estuaries",
                 "rivers",
                 "seasonality",
-                "long term",
+                "long_term",
                 "hydrology"
             ],
             "spatial": "-121.666389, 38.474781, -121.505, 38.759444",
@@ -356,11 +367,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; Interagency Ecological Program; DWR, North Central Region Office, Surface Water Data Section",
-                "contactPoint": {
-                    "fn": "Vance, Lisa",
-                    "hasEmail": "lisa.vance@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program; Vance, Lisa. 2023-12-19. Estimated Inundation Periods in the Yolo Bypass, 1998 \u2013 2022. DWR, North Central Region Office, Surface Water Data Section; Interagency Ecological Program; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.840.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Vance, Lisa",
+                "hasEmail": "lisa.vance@water.ca.gov"
             }
         },
         {
@@ -371,8 +383,9 @@
             "issued": "2024-06-07",
             "temporal": "1975 to 2021",
             "accrualPeriodicity": "notPlanned",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program",
+                "Interagency_Ecological_Program",
                 "IEP",
                 "droughts",
                 "nutrients",
@@ -476,11 +489,12 @@
                 }
             ],
             "publisher": {
-                "name": "US Geological Survey; California Department of Water Resources; California Department of Fish and Wildlife; Delta Science Program, Delta Stewardship Council; California Department of Fish and Wildlife (CDFW); NOAA Fisheries; U.S. Bureau of Reclamation; IEP; California State Water Resources Control Board",
-                "contactPoint": {
-                    "fn": "Bosworth, David",
-                    "hasEmail": "David.Bosworth@water.ca.gov"
-                }
+                "name": "Bosworth, David; Hartman, Rosemary; Twardochleb, Laura; Wells, Elizabeth; Bashevkin, Samuel; Sawyer, Evan; Burdi, Christina; Maguire, Amanda; Stumpner, Elizabeth; Barros, Arthur; Nelson, Peter; Flynn, Theodore; Bashevkin, Samuel; Bosworth, David; Perry, Sarah; Stumpner, Elizabeth; Hartman, Rosemary; Wells, Elizabeth; Interagency Ecological Program; Slater, Steven; Slater, Steven; Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen; Alstad, Karrin; Pien, Catarina; Slater, Steven; Barros, Arthur; Bashevkin, Samuel; Bosworth, David; Perry, Sarah; Stumpner, Elizabeth; Hartman, Rosemary; Hartman, Rosemary; Bosworth, David; Rasmussen, Nicholas; Flynn, Theodore; Bouma-Gregson, Keith; Khanna, Shruti; Frantzich, Jared. 2024-06-07. Interagency Ecological Program: Data for Synthesis for Ecological Impacts of Drought in the Upper San Francisco Estuary, 1975-2021. California Department of Water Resources; California Department of Fish and Wildlife; California Department of Fish and Wildlife (CDFW); NOAA Fisheries; U.S. Bureau of Reclamation; Delta Science Program, Delta Stewardship Council; California State Water Resources Control Board; IEP; US Geological Survey. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1653.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Bosworth, David",
+                "hasEmail": "David.Bosworth@water.ca.gov"
             }
         },
         {
@@ -491,13 +505,14 @@
             "issued": "2021-12-22",
             "temporal": "2017-04-14 to 2019-04-11",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Genetic stock identification",
-                "Population assignment",
-                "Chinook Salmon",
-                "Evolutionary Significant Units",
-                "Population genetics",
-                "Single nucleotide polymorphisms"
+                "Genetic_stock_identification",
+                "Population_assignment",
+                "Chinook_Salmon",
+                "Evolutionary_Significant_Units",
+                "Population_genetics",
+                "Single_nucleotide_polymorphisms"
             ],
             "spatial": "-122.445859, 36.999812, -119.706459, 40.611472",
             "distribution": [
@@ -510,11 +525,12 @@
                 }
             ],
             "publisher": {
-                "name": "Cramer Fish Sciences - Genidaqs; California Department of Water Resources; U.S. Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Phillips, Jeanine",
-                    "hasEmail": "Jeanine.Phillips@wildlife.ca.gov"
-                }
+                "name": "Blankenship, Scott; Israel, Joshua; Buttermore, Elissa; Reece, Kevin. 2021-12-22. Knights Landing, California Department of Fish and Wildlife, Genetic Determination of Population of Origin 2017 through 2019. U.S. Bureau of Reclamation; Cramer Fish Sciences - Genidaqs; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1053.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Phillips, Jeanine",
+                "hasEmail": "Jeanine.Phillips@wildlife.ca.gov"
             }
         },
         {
@@ -525,15 +541,16 @@
             "issued": "2020-08-31",
             "temporal": "2014-06-11 to 2020-06-11",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "formalin",
-                "Delta Smelt",
+                "Delta_Smelt",
                 "preservation",
-                "total length",
+                "total_length",
                 "weight",
-                "Fish Conservation and Culture Laboratory",
-                "California Department of Fish and Wildlife",
-                "Interagency Ecological Program",
+                "Fish_Conservation_and_Culture_Laboratory",
+                "California_Department_of_Fish_and_Wildlife",
+                "Interagency_Ecological_Program",
                 "IEP"
             ],
             "spatial": "-121.241808, 37.906533, -121.241808, 37.906533",
@@ -547,11 +564,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Slater, Steven",
-                    "hasEmail": "Steve.Slater@wildlife.ca.gov"
-                }
+                "name": "Slater, Steven; Burdi, Christina; Gaeta, Jereme; Frick, Madeleine. 2020-08-31. Delta Smelt Formalin Fixation and Preservation Effects on Fish Weight and Length. California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.593.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Slater, Steven",
+                "hasEmail": "Steve.Slater@wildlife.ca.gov"
             }
         },
         {
@@ -562,23 +580,24 @@
             "issued": "2023-05-15",
             "temporal": "2017-09-05 to 2022-11-30",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
                 "IEP",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
                 "Copepods",
                 "Cladocerans",
                 "Mysids",
                 "Amphipods",
                 "Zooplankton",
                 "Estuaries",
-                "Brackish water",
+                "Brackish_water",
                 "Freshwater",
                 "Rivers",
                 "Ecology",
                 "Abundance",
-                "Aquatic ecosystems",
+                "Aquatic_ecosystems",
                 "Crustaceans",
                 "Invertebrates",
                 "Larvae"
@@ -622,11 +641,12 @@
                 }
             ],
             "publisher": {
-                "name": "ICF; U.S. Bureau of Reclamation (currently US Fish and Wildlife Service)",
-                "contactPoint": {
-                    "fn": "Arend, Kristin",
-                    "hasEmail": "karend@usbr.gov"
-                }
+                "name": "Schultz, Andrew; Kalmbach, Andrew. 2023-05-15. Directed Outflow Project Lower Trophic Study. ICF; U.S. Bureau of Reclamation (currently US Fish and Wildlife Service). https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1187.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Arend, Kristin",
+                "hasEmail": "karend@usbr.gov"
             }
         },
         {
@@ -637,21 +657,22 @@
             "issued": "2024-10-10",
             "temporal": "2009-05-01 to 2024-03-22",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "Longfin Smelt",
-                "Delta Smelt",
-                "CDFW Stockton Labs",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "Longfin_Smelt",
+                "Delta_Smelt",
+                "CDFW_Stockton_Labs",
                 "SLS",
                 "IEP",
                 "estuaries",
-                "long term monitoring",
-                "endangered species",
+                "long_term_monitoring",
+                "endangered_species",
                 "fishes",
-                "population dynamics",
+                "population_dynamics",
                 "larvae",
                 "turbidity",
-                "water temperature",
+                "water_temperature",
                 "tides"
             ],
             "spatial": "-122.448966, 37.859, -121.368556, 38.286333",
@@ -714,11 +735,12 @@
                 }
             ],
             "publisher": {
-                "name": "Interagency Ecological Program (IEP); California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Mora, Vanessa",
-                    "hasEmail": "Vanessa.mora@wildlife.ca.gov"
-                }
+                "name": "Brennan, Colin; Mora, Vanessa; Oceguera Zavala, Jennifer; Jimenez, Jessica. 2024-10-10. Interagency Ecological Program San Francisco Estuary Smelt Larva Survey 2009 \u2013 2024. Interagency Ecological Program (IEP); California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.534.9&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Mora, Vanessa",
+                "hasEmail": "Vanessa.mora@wildlife.ca.gov"
             }
         },
         {
@@ -729,14 +751,15 @@
             "issued": "2023-02-28",
             "temporal": "1975 to 2021",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "phenology",
                 "phytoplankton",
-                "climate change",
+                "climate_change",
                 "indicator",
-                "global warming",
-                "seasonal pattern",
-                "San Francisco Bay"
+                "global_warming",
+                "seasonal_pattern",
+                "San_Francisco_Bay"
             ],
             "spatial": "-122.4, 37.5, -121.9, 38.2",
             "distribution": [
@@ -749,11 +772,12 @@
                 }
             ],
             "publisher": {
-                "name": "USGS",
-                "contactPoint": {
-                    "fn": "Cloern, James",
-                    "hasEmail": "jecloern@usgs.gov"
-                }
+                "name": "Cloern, James. 2023-02-28. Data Supporting: \"Phytoplankton as Indicators of Global Warming?\". USGS. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1359.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Cloern, James",
+                "hasEmail": "jecloern@usgs.gov"
             }
         },
         {
@@ -764,15 +788,16 @@
             "issued": "2023-01-04",
             "temporal": "1980 to 2020",
             "accrualPeriodicity": "notPlanned",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "bottom-up",
                 "top-down",
-                "data integration",
+                "data_integration",
                 "estuaries",
                 "fishes",
-                "food webs",
-                "invasive species",
-                "long term",
+                "food_webs",
+                "invasive_species",
+                "long_term",
                 "phytoplankton",
                 "zooplankton"
             ],
@@ -801,11 +826,12 @@
                 }
             ],
             "publisher": {
-                "name": "Bureau of Reclamation; California Department of Water Resources; California Department of Fish and Wildlife; Delta Science Program, Delta Stewardship Council; U.S. Fish and Wildlife Service; California Natural Resources Agency; California Department of Fish and Wildlife and the Interagency Ecological Program; CA Department of Water Resources; Lodi Fish and Wildlife Office, United States Fish and Wildlife Service; Delta Science Program; Department of Wildlife, Fish and Conservation Biology, University of California, Davis; Department of Environmental Science, Policy, and Management, University of California, Berkeley; IEP; USGS-CAWSC; Southwest Fisheries Science Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration",
-                "contactPoint": {
-                    "fn": "Mitchell, Lara",
-                    "hasEmail": "lara_mitchell@fws.gov"
-                }
+                "name": "Mitchell, Lara; Perry, Sarah; Bashevkin, Samuel; Burdi, Christina; Colombano, Denise; Dudley, Peter; Mahardja, Brian; Tanya, Rogers; Saffarinia, Parsa; Bashevkin, Samuel; Gaeta, Jereme; Nguyen, Trinh; Mitchell, Lara; Khanna, Shruti; Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen; Bashevkin, Samuel; Perry, Sarah; Stumpner, Elizabeth; Wells, Elizabeth; Interagency Ecological Program. 2023-01-04. Data from \"Evaluating top-down, bottom-up, and environmental drivers of pelagic food web dynamics along an estuarine gradient\". Bureau of Reclamation; California Department of Fish and Wildlife and the Interagency Ecological Program; California Department of Water Resources; California Department of Fish and Wildlife; CA Department of Water Resources; USGS-CAWSC; Southwest Fisheries Science Center, National Marine Fisheries Service, National Oceanic and Atmospheric Administration; California Natural Resources Agency; Department of Environmental Science, Policy, and Management, University of California, Berkeley; Delta Science Program; Delta Science Program, Delta Stewardship Council; U.S. Fish and Wildlife Service; IEP; Lodi Fish and Wildlife Office, United States Fish and Wildlife Service; Department of Wildlife, Fish and Conservation Biology, University of California, Davis. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1282.3&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Mitchell, Lara",
+                "hasEmail": "lara_mitchell@fws.gov"
             }
         },
         {
@@ -816,13 +842,14 @@
             "issued": "2021-12-22",
             "temporal": "2016-12-12 to 2021-05-21",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Genetic stock identification",
-                "Population assignment",
-                "Chinook Salmon",
-                "Evolutionary Significant Units",
-                "Population genetics",
-                "Single nucleotide polymorphisms"
+                "Genetic_stock_identification",
+                "Population_assignment",
+                "Chinook_Salmon",
+                "Evolutionary_Significant_Units",
+                "Population_genetics",
+                "Single_nucleotide_polymorphisms"
             ],
             "spatial": "-122.445859, 36.999812, -119.706459, 40.611472",
             "distribution": [
@@ -835,11 +862,12 @@
                 }
             ],
             "publisher": {
-                "name": "Cramer Fish Sciences - Genidaqs; California Department of Water Resources; U.S. Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Israel, Joshua",
-                    "hasEmail": "jaisrael@usbr.gov"
-                }
+                "name": "Buttermore, Elissa; Israel, Joshua; Reece, Kevin; Blankenship, Scott. 2021-12-22. Sacramento trawl, Delta Juvenile Fish Monitoring Program, Genetic Determination of Population of Origin 2017-2021. U.S. Bureau of Reclamation; Cramer Fish Sciences - Genidaqs; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1054.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Israel, Joshua",
+                "hasEmail": "jaisrael@usbr.gov"
             }
         },
         {
@@ -850,13 +878,14 @@
             "issued": "2021-12-22",
             "temporal": "2016-12-16 to 2021-06-03",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Genetic stock identification",
-                "Population assignment",
-                "Chinook Salmon",
-                "Evolutionary Significant Units",
-                "Population genetics",
-                "Single nucleotide polymorphisms"
+                "Genetic_stock_identification",
+                "Population_assignment",
+                "Chinook_Salmon",
+                "Evolutionary_Significant_Units",
+                "Population_genetics",
+                "Single_nucleotide_polymorphisms"
             ],
             "spatial": "-122.445859, 36.999812, -119.706459, 40.611472",
             "distribution": [
@@ -869,11 +898,12 @@
                 }
             ],
             "publisher": {
-                "name": "Cramer Fish Sciences - Genidaqs; California Department of Water Resources; U.S. Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Israel, Joshua",
-                    "hasEmail": "jaisrael@usbr.gov"
-                }
+                "name": "Buttermore, Elissa; Israel, Joshua; Reece, Kevin; Blankenship, Scott. 2021-12-22. Chipps Island trawl, Delta Juvenile Fish Monitoring Program, Genetic Determination of Population of Origin 2017-2021. U.S. Bureau of Reclamation; Cramer Fish Sciences - Genidaqs; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1055.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Israel, Joshua",
+                "hasEmail": "jaisrael@usbr.gov"
             }
         },
         {
@@ -884,13 +914,14 @@
             "issued": "2021-12-22",
             "temporal": "2010-12-23 to 2021-05-26",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Genetic stock identification",
-                "Population assignment",
-                "Chinook Salmon",
-                "Evolutionary Significant Units",
-                "Population genetics",
-                "Single nucleotide polymorphisms"
+                "Genetic_stock_identification",
+                "Population_assignment",
+                "Chinook_Salmon",
+                "Evolutionary_Significant_Units",
+                "Population_genetics",
+                "Single_nucleotide_polymorphisms"
             ],
             "spatial": "-122.445859, 36.999812, -119.706459, 40.611472",
             "distribution": [
@@ -903,11 +934,12 @@
                 }
             ],
             "publisher": {
-                "name": "Cramer Fish Sciences - Genidaqs; California Department of Water Resources; U.S. Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Reece, Kevin",
-                    "hasEmail": "kevin.reece@water.ca.gov"
-                }
+                "name": "Reece, Kevin; Buttermore, Elissa; Israel, Joshua; Blankenship, Scott. 2021-12-22. State Water Project, Genetic Determination of Population of Origin 2011-2021. U.S. Bureau of Reclamation; Cramer Fish Sciences - Genidaqs; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1056.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Reece, Kevin",
+                "hasEmail": "kevin.reece@water.ca.gov"
             }
         },
         {
@@ -918,13 +950,14 @@
             "issued": "2021-12-22",
             "temporal": "2011-01-02 to 2021-05-25",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Genetic stock identification",
-                "Population assignment",
-                "Chinook Salmon",
-                "Evolutionary Significant Units",
-                "Population genetics",
-                "Single nucleotide polymorphisms"
+                "Genetic_stock_identification",
+                "Population_assignment",
+                "Chinook_Salmon",
+                "Evolutionary_Significant_Units",
+                "Population_genetics",
+                "Single_nucleotide_polymorphisms"
             ],
             "spatial": "-122.445859, 36.999812, -119.706459, 40.611472",
             "distribution": [
@@ -937,11 +970,12 @@
                 }
             ],
             "publisher": {
-                "name": "Cramer Fish Sciences - Genidaqs; California Department of Water Resources; U.S. Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Buttermore, Elissa",
-                    "hasEmail": "ebuttermore@usbr.gov"
-                }
+                "name": "Buttermore, Elissa; Israel, Joshua; Reece, Kevin; Blankenship, Scott. 2021-12-22. Central Valley Project, Genetic Determination of Population of Origin 2011-2021. U.S. Bureau of Reclamation; Cramer Fish Sciences - Genidaqs; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1049.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Buttermore, Elissa",
+                "hasEmail": "ebuttermore@usbr.gov"
             }
         },
         {
@@ -952,16 +986,17 @@
             "issued": "2023-04-11",
             "temporal": "1998-02-03 to 2022-04-12",
             "accrualPeriodicity": "unknown",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "Yolo Bypass Fish Monitoring Program",
-                "California Department of Water Resources",
-                "Interagency Ecological Program",
-                "tidal slough",
-                "Cache Slough Complex",
-                "Yolo Bypass",
-                "water quality",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "Yolo_Bypass_Fish_Monitoring_Program",
+                "California_Department_of_Water_Resources",
+                "Interagency_Ecological_Program",
+                "tidal_slough",
+                "Cache_Slough_Complex",
+                "Yolo_Bypass",
+                "water_quality",
                 "nutrients",
                 "phytoplankton",
                 "chlorophyll"
@@ -984,11 +1019,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; California Department of Water Resources and Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Adams, Jesse",
-                    "hasEmail": "Jesse.Adams@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program (IEP); Adams, Jesse; Pien, Catarina. 2023-04-11. Interagency Ecological Program: Discrete water quality and phytoplankton data from the Sacramento River floodplain and Yolo Bypass tidal slough, collected by the Yolo Bypass Fish Monitoring Program, 1998 - 2022. California Department of Water Resources and Bureau of Reclamation; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1391.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Adams, Jesse",
+                "hasEmail": "Jesse.Adams@water.ca.gov"
             }
         },
         {
@@ -999,31 +1035,32 @@
             "issued": "2024-11-05",
             "temporal": "2018-11-08 to 2024-07-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "ecology",
-                "aquatic ecosystems",
+                "aquatic_ecosystems",
                 "freshwater",
                 "estuaries",
                 "rivers",
                 "macrofauna",
                 "fishes",
                 "abundance",
-                "long term monitoring",
-                "endangered species",
-                "invasive species",
-                "water temperature",
+                "long_term_monitoring",
+                "endangered_species",
+                "invasive_species",
+                "water_temperature",
                 "conductivity",
                 "turbidity",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "United States Fish and Wildlife Service",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "nearshore fishes",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "United_States_Fish_and_Wildlife_Service",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "nearshore_fishes",
                 "electrofishing",
-                "Chinook Salmon",
-                "Sacramento Hitch",
-                "Sacramento Splittail",
-                "Largemouth Bass"
+                "Chinook_Salmon",
+                "Sacramento_Hitch",
+                "Sacramento_Splittail",
+                "Largemouth_Bass"
             ],
             "spatial": "-122.4899, 37.6131828, -121.176304, 39.21999207",
             "distribution": [
@@ -1050,11 +1087,12 @@
                 }
             ],
             "publisher": {
-                "name": "United States Fish and Wildlife Service",
-                "contactPoint": {
-                    "fn": "Fish Biologist, Jacob Stagg",
-                    "hasEmail": "jacob_stagg@fws.gov"
-                }
+                "name": "Interagency Ecological Program (IEP); Stagg, Jacob; Speegle, Jonathan; McKenzie, Ryan; Nanninga, Adam; Huber, Eric; Steinhart, Geoffrey; Marcetti, Donald; Holcombe, Erika; Arrambide, Adriana; Falcon, Jessica. 2024-11-05. Interagency Ecological Program: USFWS Delta Boat Electrofishing Survey, 2018-2024. United States Fish and Wildlife Service. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.692.5&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Fish Biologist, Jacob Stagg",
+                "hasEmail": "jacob_stagg@fws.gov"
             }
         },
         {
@@ -1065,14 +1103,15 @@
             "issued": "2020-07-30",
             "temporal": "2002-08-01 to 2018-11-01",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Delta Smelt",
+                "Delta_Smelt",
                 "Zooplankton",
-                "Water Quality",
+                "Water_Quality",
                 "Estuaries",
-                "San Fransisco Estuary",
-                "Suisun Marsh",
-                "Water Management"
+                "San_Fransisco_Estuary",
+                "Suisun_Marsh",
+                "Water_Management"
             ],
             "spatial": "-122.0527, 38.1869, -121.8388, 38.03281",
             "distribution": [
@@ -1127,11 +1166,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; United States Fish and Wildlife Service; California Department of Fish and Wildlife; Delta Science Program, Delta Stewardship Council; California Department of Fish and Wildlife (CDFW); Anchor QEA",
-                "contactPoint": {
-                    "fn": "Hartman, Rosemary",
-                    "hasEmail": "Rosemary.Hartman@water.ca.gov"
-                }
+                "name": "Hartman, Rosemary; Sommer, Ted; Koohafkan, Michael; Burdi, Christina; Bever, Aaron; MacWilliams, Michael; Galef, Jeff; Barros, Arthur; United States Fish and Wildlife Service; Johnston, Catherine; Lee, Sunny; Mahardja, Brian; Speegle, Jonathan; Barnard, Denise; Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen. 2020-07-30. Interagency Ecological Program: Water quality, fish, and zooplankton monitoring and modeling to support the 2018 Suisun Marsh Salinity Control Gates Summer Action. United States Fish and Wildlife Service; California Department of Water Resources; California Department of Fish and Wildlife; Anchor QEA; Delta Science Program, Delta Stewardship Council; California Department of Fish and Wildlife (CDFW). https://portal.edirepository.org/nis/mapbrowse?packageid=edi.581.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Hartman, Rosemary",
+                "hasEmail": "Rosemary.Hartman@water.ca.gov"
             }
         },
         {
@@ -1142,52 +1182,53 @@
             "issued": "2024-07-22",
             "temporal": "1975-01-07 to 2021-12-16",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "California Department of Water Resources",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
+                "California_Department_of_Water_Resources",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
                 "ammonia",
                 "algae",
                 "carbon",
                 "calcium",
                 "chloride",
                 "chlorophyll",
-                "chlorophyll a",
+                "chlorophyll_a",
                 "conductivity",
                 "depth",
-                "dissolved nutrients",
-                "dissolved organic carbon",
-                "dissolved organic nitrogen",
-                "dissolved oxygen",
+                "dissolved_nutrients",
+                "dissolved_organic_carbon",
+                "dissolved_organic_nitrogen",
+                "dissolved_oxygen",
                 "estuaries",
                 "fluorescence",
                 "freshwater",
                 "latitude",
                 "longitude",
-                "long term monitoring",
+                "long_term_monitoring",
                 "measurements",
                 "monitoring",
                 "nitrogen",
                 "nitrate",
                 "nitrite",
                 "nutrients",
-                "organic carbon",
-                "organic nitrogen",
+                "organic_carbon",
+                "organic_nitrogen",
                 "oxygen",
                 "ph",
                 "phaeophytin",
                 "phosphorus",
                 "rivers",
-                "secchi depth",
+                "secchi_depth",
                 "silica",
                 "temperature",
-                "total organic carbon",
-                "total phosphorus",
+                "total_organic_carbon",
+                "total_phosphorus",
                 "turbidity",
-                "water quality",
-                "water temperature",
-                "wind speed"
+                "water_quality",
+                "water_temperature",
+                "wind_speed"
             ],
             "spatial": "-122.393, 37.678, -121.262, 38.369",
             "distribution": [
@@ -1214,11 +1255,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources",
-                "contactPoint": {
-                    "fn": "Battey, Morgan",
-                    "hasEmail": "morgan.battey@water.ca.gov"
-                }
+                "name": "Battey, Morgan; Perry, Sarah. 2024-07-22. Interagency Ecological Program: Discrete water quality monitoring in the Sacramento-San Joaquin Bay-Delta, collected by the Environmental Monitoring Program, 1975-2023. California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.458.12&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Battey, Morgan",
+                "hasEmail": "morgan.battey@water.ca.gov"
             }
         },
         {
@@ -1229,16 +1271,17 @@
             "issued": "2024-10-23",
             "temporal": "2018-06-01 to 2022-12-31",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Suisun Marsh",
-                "Interagency Ecological Program",
+                "Suisun_Marsh",
+                "Interagency_Ecological_Program",
                 "IEP",
                 "clams",
                 "estuaries",
                 "fishes",
                 "zooplankton",
                 "phytoplankton",
-                "water quality",
+                "water_quality",
                 "algae",
                 "benthos"
             ],
@@ -1344,11 +1387,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; United States Fish and Wildlife Service; California Department of Fish and Wildlife; Delta Science Program, Delta Stewardship Council; CA Department of Water Resources; U.S. Bureau of Reclamation; Department of Water Resources; California State Water Resources Control Board",
-                "contactPoint": {
-                    "fn": "Hartman, Rosemary",
-                    "hasEmail": "Rosemary.Hartman@water.ca.gov"
-                }
+                "name": "Hartman, Rosemary; Rasmussen, Nick; Burdi, Christina; Breining-Aday, Spencer; Wells, Elizabeth; Stewart, Alan; Nelson, Michelle; Tran, Andrew; Neumayr, Stephen; Perry, Sarah; Brown, Tiffany; Klotz, Vivian; Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen; Alstad, Karrin; Pien, Catarina; Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen; Alstad, Karrin; Pien, Catarina; United States Fish and Wildlife Service; Erly, Kate; Cook, Ryan; Speegle, Jonathan; Bigham, Gershom; Supervisory Fish Biologist, Denise, Barnard; Senegal, Taylor. 2024-10-23. Interagency Ecological Program: Monitoring of water quality, phytoplankton, zooplankton, clams, and fish to support the Summer-Fall Suisun Marsh Salinity Control Gates Action 2018-2023. United States Fish and Wildlife Service; California Department of Water Resources; CA Department of Water Resources; California Department of Fish and Wildlife; U.S. Bureau of Reclamation; Delta Science Program, Delta Stewardship Council; California State Water Resources Control Board; Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.876.8&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Hartman, Rosemary",
+                "hasEmail": "Rosemary.Hartman@water.ca.gov"
             }
         },
         {
@@ -1359,17 +1403,18 @@
             "issued": "2023-05-03",
             "temporal": "2014-01-01 to 2021-12-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "water quality",
+                "water_quality",
                 "phytoplankton",
                 "bacteria",
                 "vegetation",
-                "aquatic ecosystems",
-                "dissolved nutrients",
+                "aquatic_ecosystems",
+                "dissolved_nutrients",
                 "estuaries",
-                "invasive species",
+                "invasive_species",
                 "cyanobacteria",
-                "Interagency Ecological Program",
+                "Interagency_Ecological_Program",
                 "toxin"
             ],
             "spatial": "-121.869, 37.68, -121.3, 38.56",
@@ -1495,11 +1540,12 @@
                 }
             ],
             "publisher": {
-                "name": "US Geological Survey; California Department of Water Resources; Murdoch University; California Department of Fish and Wildlife; Delta Science Program, Delta Stewardship Council; University of California, Merced; University of Nevada, Reno; CA Department of Water Resources; University of California, Davis; Institute of Agrifood Research and Technology, Madrid, Spain; USGS-CAWSC; University of Zurich; United States Environmental Protection Agency",
-                "contactPoint": {
-                    "fn": "Hartman, Rosemary",
-                    "hasEmail": "Rosemary.Hartman@water.ca.gov"
-                }
+                "name": "Hartman, Rosemary; Bosworth, David; Rasmussen, Nicholas; Flynn, Theodore; Bouma-Gregson, Keith; Khanna, Shruti; Frantzich, Jared; Battey, Morgan; Perry, Sarah; Bashevkin, Samuel; Perry, Sarah; Stumpner, Elizabeth; Perry, Sarah; Brown, Tiffany; Klotz, Vivian; Khanna, Shruti; Ustin, Susan; Lay, Mui; Andrew, Margaret; Santos, Maria; Hestir, Erin; Shapiro, Kristen; Bellvert, Joaquim; Greenberg, Jonathan; Khanna, Shruti; Ustin, Susan; Bashevkin, Samuel; Perry, Sarah; Stumpner, Elizabeth. 2023-05-03. Harmful algal bloom and aquatic weeds data from the Sacramento-San Joaquin Delta, collected to evaluate the impact of the 2021 Temporary Urgency Change Order and Emergency Drought Barrier. University of California, Davis; California Department of Water Resources; California Department of Fish and Wildlife; CA Department of Water Resources; University of Zurich; USGS-CAWSC; University of California, Merced; United States Environmental Protection Agency; Delta Science Program, Delta Stewardship Council; University of Nevada, Reno; Institute of Agrifood Research and Technology, Madrid, Spain; US Geological Survey; Murdoch University. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1337.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Hartman, Rosemary",
+                "hasEmail": "Rosemary.Hartman@water.ca.gov"
             }
         },
         {
@@ -1510,13 +1556,14 @@
             "issued": "2024-08-15",
             "temporal": "2008-01-14 to 2021-12-04",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "environmental",
-                "San Francisco Estuary",
+                "San_Francisco_Estuary",
                 "estuaries",
                 "phytoplankton",
                 "water",
-                "water quality",
+                "water_quality",
                 "monitoring"
             ],
             "spatial": "-122.393, 37.678, -121.262, 38.369",
@@ -1551,11 +1598,12 @@
                 }
             ],
             "publisher": {
-                "name": "CA Department of Water Resources",
-                "contactPoint": {
-                    "fn": "Brown, Tiffany",
-                    "hasEmail": "tiffany.brown@water.ca.gov"
-                }
+                "name": "Perry, Sarah; Brown, Tiffany; Klotz, Vivian. 2024-08-15. Interagency Ecological Program: Phytoplankton monitoring in the Sacramento-San Joaquin Bay-Delta, collected by the Environmental Monitoring Program, 2008-2023. CA Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1320.9&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Brown, Tiffany",
+                "hasEmail": "tiffany.brown@water.ca.gov"
             }
         },
         {
@@ -1566,28 +1614,29 @@
             "issued": "2024-08-02",
             "temporal": "2015 to 2022",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Delta Smelt",
+                "Delta_Smelt",
                 "Splittail",
-                "Tule Perch",
-                "tidal wetland",
-                "emergent aquatic vegetation",
-                "salmon rearing",
-                "floating aquatic vegetation",
-                "Longfin Smelt",
-                "benthic invertebrates",
-                "submersed aquatic vegetation",
-                "submerged aquatic vegetation",
+                "Tule_Perch",
+                "tidal_wetland",
+                "emergent_aquatic_vegetation",
+                "salmon_rearing",
+                "floating_aquatic_vegetation",
+                "Longfin_Smelt",
+                "benthic_invertebrates",
+                "submersed_aquatic_vegetation",
+                "submerged_aquatic_vegetation",
                 "diatom",
                 "cyanobacteria",
-                "Chinook Salmon",
+                "Chinook_Salmon",
                 "restoration",
                 "phytoplankton",
                 "zooplankton",
-                "food webs",
+                "food_webs",
                 "estuaries",
                 "nutrients",
-                "water quality",
+                "water_quality",
                 "chlorophyll"
             ],
             "spatial": "-122.045, 37.997, -121.58, 38.373",
@@ -1636,11 +1685,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Bowles, Christy",
-                    "hasEmail": "christy.bowles@wildlife.ca.gov"
-                }
+                "name": "Sherman, Stacy; Bowles, Christy; Avila, Michelle; Cox, Daniel; Davidson, Emma; Ng, Gabriel; Hartman, Rosemary; Ellis, Daniel; Contreras, Dave. 2024-08-02. Fish Restoration Program Tidal Wetland Restoration Monitoring in Upper San Francisco Estuary, 2015-ongoing. California Department of Water Resources; California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.269.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Bowles, Christy",
+                "hasEmail": "christy.bowles@wildlife.ca.gov"
             }
         },
         {
@@ -1651,24 +1701,25 @@
             "issued": "2023-03-09",
             "temporal": "1972-01-10 to 2021-12-16",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "zooplankton",
                 "estuaries",
-                "brackish water",
+                "brackish_water",
                 "freshwater",
                 "rivers",
-                "long term monitoring",
-                "water quality",
+                "long_term_monitoring",
+                "water_quality",
                 "ecology",
                 "abundance",
-                "invasive species",
-                "aquatic ecosystems",
+                "invasive_species",
+                "aquatic_ecosystems",
                 "crustaceans",
                 "invertebrates",
                 "larvae",
                 "rotifers",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "California Department of Fish and Wildlife",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "California_Department_of_Fish_and_Wildlife",
                 "Copepods",
                 "Cladocerans",
                 "Mysids",
@@ -1741,11 +1792,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; California Department of Fish and Wildlife; Delta Science Program, Delta Stewardship Council; California Department of Fish and Wildlife (CDFW); U.S. Bureau of Reclamation (currently US Fish and Wildlife Service); U.S. Bureau of Reclamation; ICF; California State Water Resources Control Board",
-                "contactPoint": {
-                    "fn": "Bashevkin, Samuel",
-                    "hasEmail": "sam.bashevkin@deltacouncil.ca.gov"
-                }
+                "name": "Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen; Alstad, Karrin; Pien, Catarina; Battey, Morgan; Perry, Sarah; California Department of Fish and Wildlife; Hartman, Rosemary; Sherman, Stacy; Contreras, Dave; Ellis, Daniel; Barros, Arthur; Burdi, Christina; Breining-Aday, Spencer; Slater, Steven; Interagency Ecological Program; Pien, Catarina; Adams, Jesse; Kwan, Nicole; Schultz, Andrew; Kalmbach, Andrew; California Department of Fish and Wildlife. 2023-03-09. Interagency Ecological Program: Zooplankton abundance in the Upper San Francisco Estuary from 1972-2021, an integration of 7 long-term monitoring programs. U.S. Bureau of Reclamation (currently US Fish and Wildlife Service); California Department of Water Resources; California Department of Fish and Wildlife; ICF; U.S. Bureau of Reclamation; Delta Science Program, Delta Stewardship Council; California State Water Resources Control Board; California Department of Fish and Wildlife (CDFW). https://portal.edirepository.org/nis/mapbrowse?packageid=edi.539.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Bashevkin, Samuel",
+                "hasEmail": "sam.bashevkin@deltacouncil.ca.gov"
             }
         },
         {
@@ -1756,17 +1808,18 @@
             "issued": "2022-12-26",
             "temporal": "N/A to N/A",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "estuaries",
                 "rivers",
                 "fishes",
-                "endangered species",
-                "invasive species",
+                "endangered_species",
+                "invasive_species",
                 "temperature",
                 "tolerance",
-                "Sacramento-San Joaquin Delta",
-                "San Francisco Estuary",
-                "Interagency Ecological Program",
+                "Sacramento-San_Joaquin_Delta",
+                "San_Francisco_Estuary",
+                "Interagency_Ecological_Program",
                 "IEP"
             ],
             "spatial": null,
@@ -1787,11 +1840,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; Bureau of Reclamation and California Department of Water Resources; Delta Stewardship Council",
-                "contactPoint": {
-                    "fn": "Davis, Brittany",
-                    "hasEmail": "Brittany.E.Davis@water.ca.gov"
-                }
+                "name": "Davis, Brittany; Bush, Eva; Lehman, Peggy; Pien, Catarina. 2022-12-26. Temperature Thresholds for Aquatic Species in the Sacramento San-Joaquin Delta. Delta Stewardship Council; Bureau of Reclamation and California Department of Water Resources; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1286.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Davis, Brittany",
+                "hasEmail": "Brittany.E.Davis@water.ca.gov"
             }
         },
         {
@@ -1802,14 +1856,15 @@
             "issued": "2024-06-04",
             "temporal": "2014-01-01 to 2022-12-31",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "hydrodynamics",
                 "barrier",
-                "water management",
+                "water_management",
                 "drought",
-                "Interagency Ecological Program",
+                "Interagency_Ecological_Program",
                 "fishes",
-                "water quality",
+                "water_quality",
                 "salinity",
                 "estuaries",
                 "predation",
@@ -1903,11 +1958,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; United States Fish and Wildlife Service; California Department of Fish and Wildlife; Environmental Science Associates; Delta Science Program, Delta Stewardship Council; U.S. Bureau of Reclamation; ICF International, Inc.; California State Water Resources Control Board",
-                "contactPoint": {
-                    "fn": "Hartman, Rosemary",
-                    "hasEmail": "Rosemary.Hartman@water.ca.gov"
-                }
+                "name": "Hartman, Rosemary; Bosworth, David; Huston, David; Frantzich, Jared; Salman, Tyler; Ateljevich, Eli; Clark, Kevin; Bergman, Paul; Klambach, Andrew; Wilder, Rick; Silva, Matthew; Hassrick, Jason; Hinkelman, Travis; Spaulding, Taylor; Slater, Steven; Interagency Ecological Program (IEP); Speegle, Jonathan; McKenzie, Ryan; Nanninga, Adam; Holcombe, Erika; Stagg, Jacob; Hagen, Jackie; Huber, Eric; Steinhart, Geoffrey; Arrambide, Adriana; Siddiqui, Samreen; Bashevkin, Samuel; Hartman, Rosemary; Thomas, Madison; Barros, Arthur; Burdi, Christina; Hennessy, April; Tempel, Trishelle; Kayfetz, Karen; Alstad, Karrin; Pien, Catarina. 2024-06-04. 2021-2022 West False River Emergency Drought Barrier water quality, flow, and fish monitoring. United States Fish and Wildlife Service; ICF International, Inc.; California Department of Water Resources; California Department of Fish and Wildlife; U.S. Bureau of Reclamation; Delta Science Program, Delta Stewardship Council; Environmental Science Associates; California State Water Resources Control Board. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1162.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Hartman, Rosemary",
+                "hasEmail": "Rosemary.Hartman@water.ca.gov"
             }
         },
         {
@@ -1918,15 +1974,16 @@
             "issued": "2022-07-27",
             "temporal": "1998-01-16 to 2019-12-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "water temperature ",
+                "water_temperature_",
                 "estuary",
-                "Yolo Bypass, California",
-                "Interagency Ecological Program for the San Francisco Bay Delta\n        Estuary",
-                "California Data Exchange Center",
-                "California Department of Water Resources",
-                "Delta Stewardship Council - Delta Science Program",
-                "National Center for Ecological Analysis and Synthesis",
+                "Yolo_Bypass__California",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_________Estuary",
+                "California_Data_Exchange_Center",
+                "California_Department_of_Water_Resources",
+                "Delta_Stewardship_Council_-_Delta_Science_Program",
+                "National_Center_for_Ecological_Analysis_and_Synthesis",
                 "floodplain"
             ],
             "spatial": "-121.686, 38.1592, -121.528, 38.74979",
@@ -1961,11 +2018,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; Delta Stewardship Council \u2013 Delta Science Program; Interagency Ecological Program (IEP); California Department of Water Resource; U.S. Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Goertler, Pascale",
-                    "hasEmail": "pascale.goertler@deltacouncil.ca.gov"
-                }
+                "name": "Goertler, Pascale ; Pien, Catarina; Interagency Ecological Program; Pien, Catarina; Hamilton, Jasmine; Hartman, Rosemary; Nelson, Michelle; Saraceno, JohnFranco; Schreier, Brian; Davis, Brittany; Interagency Ecological Program; Pien, Catarina; Kwan, Nicole. 2022-07-27. Daily water temperature (C) in the Yolo Bypass and Sacramento River, 1998-2019. California Department of Water Resources; Delta Stewardship Council \u2013 Delta Science Program; U.S. Bureau of Reclamation; California Department of Water Resource; Interagency Ecological Program (IEP). https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1178.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Goertler, Pascale",
+                "hasEmail": "pascale.goertler@deltacouncil.ca.gov"
             }
         },
         {
@@ -1976,23 +2034,24 @@
             "issued": "2019-10-23",
             "temporal": "2014-11-12 to 2014-11-25",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "aquatic ecosystems",
+                "aquatic_ecosystems",
                 "ecology",
                 "estuaries",
-                "brackish water",
+                "brackish_water",
                 "freshwater",
                 "fishes",
                 "abundance",
-                "endangered species",
-                "invasive species",
-                "water quality",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "United States Fish and Wildlife Service",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "nearshore fishes",
-                "Largemouth Bass",
+                "endangered_species",
+                "invasive_species",
+                "water_quality",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "United_States_Fish_and_Wildlife_Service",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "nearshore_fishes",
+                "Largemouth_Bass",
                 "Electrofishing",
                 "salinity"
             ],
@@ -2014,11 +2073,12 @@
                 }
             ],
             "publisher": {
-                "name": "United States Forest Service; United States Fish and Wildlife Service",
-                "contactPoint": {
-                    "fn": "Data Manager, Jonathan Speegle",
-                    "hasEmail": "jonathan_speegle@fws.gov"
-                }
+                "name": "Interagency Ecological Program (IEP); Speegle, Jonathan; Kirsch, Joseph; Mahardja, Brian. 2019-10-23. Interagency Ecological Program: Sacramento-San Joaquin Delta boat electrofishing survey during the critical drought of 2014. United States Fish and Wildlife Service; United States Forest Service. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.441.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Data Manager, Jonathan Speegle",
+                "hasEmail": "jonathan_speegle@fws.gov"
             }
         },
         {
@@ -2029,17 +2089,18 @@
             "issued": "2020-08-23",
             "temporal": "1986-06-13 to 2019-12-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program",
-                "CDEC, California Department of Water Resources",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "long term, monitoring",
+                "Interagency_Ecological_Program",
+                "CDEC__California_Department_of_Water_Resources",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "long_term__monitoring",
                 "estuaries",
                 "water",
-                "water quality",
-                "water temperature",
-                "climate change"
+                "water_quality",
+                "water_temperature",
+                "climate_change"
             ],
             "spatial": "-122.1404877, 37.6547, -121.110135, 38.79356",
             "distribution": [
@@ -2080,11 +2141,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; Interagency Ecological Program (IEP); California Department of Water Resource",
-                "contactPoint": {
-                    "fn": "Pien, Catarina",
-                    "hasEmail": "Catarina.Pien@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program; Pien, Catarina; Hamilton, Jasmine; Hartman, Rosemary; Nelson, Michelle; Saraceno, JohnFranco; Schreier, Brian; Davis, Brittany; Department of Water Resources. 2020-08-23. Hourly water temperature from the San Francisco Estuary, 1986 - 2019. Interagency Ecological Program (IEP); California Department of Water Resource; California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.591.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Pien, Catarina",
+                "hasEmail": "Catarina.Pien@water.ca.gov"
             }
         },
         {
@@ -2095,36 +2157,37 @@
             "issued": "2023-12-21",
             "temporal": "2018-04-17 to 2019-05-30",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "aquatic ecosystems",
+                "aquatic_ecosystems",
                 "distribution",
                 "ecology",
                 "estuaries",
-                "brackish water",
+                "brackish_water",
                 "freshwater",
                 "rivers",
                 "fishes",
                 "abundance",
-                "endangered species",
-                "invasive species",
-                "water quality",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
+                "endangered_species",
+                "invasive_species",
+                "water_quality",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
                 "IEP",
-                "United States Fish and Wildlife Service",
+                "United_States_Fish_and_Wildlife_Service",
                 "USFWS",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
                 "pelagic",
-                "fish trawl",
-                "larval fish",
-                "juvenile fish",
-                "Chinook salmon",
-                "Delta Smelt",
-                "Longfin Smelt",
+                "fish_trawl",
+                "larval_fish",
+                "juvenile_fish",
+                "Chinook_salmon",
+                "Delta_Smelt",
+                "Longfin_Smelt",
                 "Wakasagi",
-                "Sacramento Splittail",
-                "Threadfin Shad",
-                "American Shad"
+                "Sacramento_Splittail",
+                "Threadfin_Shad",
+                "American_Shad"
             ],
             "spatial": "-122.423, 37.775, -121.289, 38.601",
             "distribution": [
@@ -2158,11 +2221,12 @@
                 }
             ],
             "publisher": {
-                "name": "United States Fish and Wildlife Service",
-                "contactPoint": {
-                    "fn": "Supervisory Biologist, Taylor Senegal",
-                    "hasEmail": "taylor_senegal@fws.gov"
-                }
+                "name": "United States Fish and Wildlife Service; Barnard, Denise; Mahardja, Brian; Barnard, Denise; Johnston, Catherine; Speegle, Jonathan; Gilbert, Morgan; Mckenzie, Ryan; Durkacz, Stephanie; Mckenzie, Ryan; Staiger, Stephen; Arrambide, Adriana; Erly, Kate; Perales, Brynn; Bridgman, David; Raisch, Andreas; Dummitt, Justin; Jessee, Zachary. 2023-12-21. Interagency Ecological Program and US Fish and Wildlife Service: Enhanced Delta Smelt Monitoring Program Experimental Larval Survey Data 2018-2019. United States Fish and Wildlife Service. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.994.3&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Supervisory Biologist, Taylor Senegal",
+                "hasEmail": "taylor_senegal@fws.gov"
             }
         },
         {
@@ -2173,34 +2237,35 @@
             "issued": "2023-10-23",
             "temporal": "1998-01-26 to 2023-06-30",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Yolo Bypass",
-                "San Fransciso Estuary",
-                "Sacramento-San Joaquin Delta",
-                "Yolo Bypass Fish Monitoring Program",
-                "California Department of Water Resources",
-                "Interagency Ecological Program",
-                "rotary screw trap",
-                "fyke trap",
-                "beach seine",
-                "tidal slough",
-                "Chinook Salmon",
-                "Sacramento Splittail",
-                "aquatic ecosystems",
+                "Yolo_Bypass",
+                "San_Fransciso_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "Yolo_Bypass_Fish_Monitoring_Program",
+                "California_Department_of_Water_Resources",
+                "Interagency_Ecological_Program",
+                "rotary_screw_trap",
+                "fyke_trap",
+                "beach_seine",
+                "tidal_slough",
+                "Chinook_Salmon",
+                "Sacramento_Splittail",
+                "aquatic_ecosystems",
                 "freshwater",
                 "ecology",
                 "estuaries",
                 "rivers",
                 "floodplain",
                 "seasonality",
-                "long term",
+                "long_term",
                 "communities",
-                "food webs",
+                "food_webs",
                 "surveys",
                 "fishes",
                 "abundance",
-                "endangered species",
-                "invasive species"
+                "endangered_species",
+                "invasive_species"
             ],
             "spatial": "-121.664178, 38.27428, -121.35257, 38.74979",
             "distribution": [
@@ -2276,11 +2341,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources",
-                "contactPoint": {
-                    "fn": "Kwan, Nicole",
-                    "hasEmail": "Nicole.Kwan@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program; Vance, Lisa; Kwan, Nicole. 2023-10-23. Interagency Ecological Program: Fish catch and water quality data from the Sacramento River floodplain and tidal slough, collected by the Yolo Bypass Fish Monitoring Program, 1998-2023.. California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.233.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Kwan, Nicole",
+                "hasEmail": "Nicole.Kwan@water.ca.gov"
             }
         },
         {
@@ -2291,34 +2357,35 @@
             "issued": "2024-12-11",
             "temporal": "1998-02-03 to 2022-12-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Yolo Bypass",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "Yolo Bypass Fish Monitoring Program",
-                "California Department of Water Resources",
-                "Interagency Ecological Program",
+                "Yolo_Bypass",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "Yolo_Bypass_Fish_Monitoring_Program",
+                "California_Department_of_Water_Resources",
+                "Interagency_Ecological_Program",
                 "fish",
-                "lower trophic monitoring",
-                "aquatic ecosystems",
+                "lower_trophic_monitoring",
+                "aquatic_ecosystems",
                 "freshwater",
                 "ecology",
                 "estuaries",
                 "rivers",
                 "floodplain",
                 "seasonality",
-                "long term",
+                "long_term",
                 "communities",
-                "food webs",
+                "food_webs",
                 "surveys",
                 "weather",
                 "turbidity",
                 "ph",
-                "electrical conductivity",
-                "water temperature",
-                "water quality",
+                "electrical_conductivity",
+                "water_temperature",
+                "water_quality",
                 "macroinvertebrates",
-                "aquatic invertebrates",
+                "aquatic_invertebrates",
                 "crustaceans",
                 "plankton",
                 "larvae",
@@ -2363,11 +2430,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources",
-                "contactPoint": {
-                    "fn": "Kwan, Nicole",
-                    "hasEmail": "Nicole.Kwan@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program; Vance, Lisa. 2024-12-11. Interagency Ecological Program: Drift invertebrate and ichthyoplankton catch and water quality from the Sacramento River channel, and Sacramento River floodplain and tidal slough, collected by the Yolo Bypass Fish Monitoring Program, 1998-2022. California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.818.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Kwan, Nicole",
+                "hasEmail": "Nicole.Kwan@water.ca.gov"
             }
         },
         {
@@ -2378,12 +2446,13 @@
             "issued": "2023-12-13",
             "temporal": "1999-03-09 to 2019-12-27",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "chlorophyll a",
-                "primary productivity",
+                "chlorophyll_a",
+                "primary_productivity",
                 "floodplain",
                 "estuary",
-                "Sacramento-San Joaquin Delta",
+                "Sacramento-San_Joaquin_Delta",
                 "connectivity"
             ],
             "spatial": "-122.0019, 38.08453, -121.5013437, 38.7743454",
@@ -2404,11 +2473,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources; California Department of Water Resources and Bureau of Reclamation; California Department of Fish and Wildlife; Delta Stewardship Council \u2013 Delta Science Program; U.S. Fish and Wildlife Service; Bureau of Reclamation and California Department of Water Resources; U.S. Bureau of Reclamation; Delta Science Program; UC Davis; United States Geological Survey; Department of Water Resources; California State Water Resources Control Board",
-                "contactPoint": {
-                    "fn": "Pien, Catarina",
-                    "hasEmail": "cpien@usbr.gov"
-                }
+                "name": "Pien, Catarina; Stumpner, Elizabeth; Goertler, Pascale; Peek, Ryan; Chapple, Dylan; Yamane, Lauren; Berglund, Mattea; Khanna, Shruti; Bashevkin, Samuel; Bosworth, David; Perry, Sarah; Stumpner, Elizabeth; Hartman, Rosemary; Interagency Ecological Program (IEP); Adams, Jesse; Pien, Catarina; Goertler, Pascale ; Pien, Catarina; Goertler, Pascale ; Stumpner, Elizabeth; Ruhl, Catherine; Cheng, Robin. 2023-12-13. Discrete water temperature, flow, solar radiation, chlorophyll-a and inundation, Sacramento-San Joaquin Delta, CA, 1999-2019. California Department of Water Resources; California Department of Fish and Wildlife; UC Davis; Delta Stewardship Council \u2013 Delta Science Program; Delta Science Program; U.S. Bureau of Reclamation; U.S. Fish and Wildlife Service; California Department of Water Resources and Bureau of Reclamation; Bureau of Reclamation and California Department of Water Resources; California State Water Resources Control Board; United States Geological Survey; Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1537.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Pien, Catarina",
+                "hasEmail": "cpien@usbr.gov"
             }
         },
         {
@@ -2419,13 +2489,14 @@
             "issued": "2023-01-24",
             "temporal": "2012-05-08 to 2019-08-27",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "estuary",
-                "food web",
+                "food_web",
                 "phytoplankton",
                 "zooplankton",
                 "hydrodynamics",
-                "San Francisco Estuary"
+                "San_Francisco_Estuary"
             ],
             "spatial": "-121.742, 38.088, -121.567, 38.559",
             "distribution": [
@@ -2445,11 +2516,12 @@
                 }
             ],
             "publisher": {
-                "name": "US Geological Survey; University of California Davis; US Bureau of Reclamation",
-                "contactPoint": {
-                    "fn": "Smits, Adrianne",
-                    "hasEmail": "asmits@ucdavis.edu"
-                }
+                "name": "Smits, Adrianne; VanNieuwenhuyse, Erwin; Dahlgren, Randy; Stumpner, Paul. 2023-01-24. Water quality, phytoplankton, and zooplankton in the Sacramento Deep Water Ship Channel, CA. US Bureau of Reclamation; US Geological Survey; University of California Davis. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1319.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Smits, Adrianne",
+                "hasEmail": "asmits@ucdavis.edu"
             }
         },
         {
@@ -2460,11 +2532,12 @@
             "issued": "2023-12-11",
             "temporal": "2003-01-01 to 2019-12-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "Fishes",
-                "Cache Slough",
+                "Cache_Slough",
                 "IEP",
-                "Interagency Ecological Program"
+                "Interagency_Ecological_Program"
             ],
             "spatial": "-121.7501, 38.2291, -121.6384, 38.3402",
             "distribution": [
@@ -2491,82 +2564,12 @@
                 }
             ],
             "publisher": {
-                "name": "USFWS; IEP",
-                "contactPoint": {
-                    "fn": "Gilbert, Morgan",
-                    "hasEmail": "Morgan_Gilbert@fws.gov"
-                }
-            }
-        },
-        {
-            "@type": "Dataset",
-            "identifier": "edi.415.11",
-            "title": "Interagency Ecological Program and US Fish and Wildlife Service: San Francisco Estuary Enhanced Delta Smelt Monitoring Program data, 2016-2023",
-            "description": " The Enhanced Delta Smelt Monitoring Program (EDSM) was initiated by the U.S. Fish and Wildlife Service in 2016. EDSM focuses on providing real-time data to help managers respond to population patterns of Delta Smelt within the upper San Francisco Estuary, primarily by providing estimates of Delta Smelt distribution and abundance. The dataset can also be useful in evaluating habitat use and behavior patterns of this species and other fish species of interest. Sampling is done year round via Kodiak trawls and larval (\u201c20-mm\u201d) gear to sample Delta Smelt across most life stages. Sites are chosen via stratified random sampling. Over the course of a week, field crews sample between 18 and 41 random sites. A minimum of two tows are conducted at each site.  All fish collected are identified (in the field when possible, in the lab for early life stages), measured, enumerated, and recorded. In addition to fish information, environmental data are collected for each sampling event. For more information: https://https://www.fws.gov/office/lodi-fish-and-wildlife",
-            "issued": "2024-10-17",
-            "temporal": "2016-12-15 to 2023-11-30",
-            "accrualPeriodicity": null,
-            "keyword": [
-                "aquatic ecosystems",
-                "distribution",
-                "ecology",
-                "estuaries",
-                "brackish water",
-                "freshwater",
-                "rivers",
-                "fishes",
-                "abundance",
-                "endangered species",
-                "invasive species",
-                "water quality",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "IEP",
-                "United States Fish and Wildlife Service",
-                "USFWS",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "pelagic",
-                "fish trawl",
-                "larval fish",
-                "juvenile fish",
-                "Chinook salmon",
-                "Delta Smelt",
-                "Longfin Smelt",
-                "Wakasagi",
-                "Sacramento splittail",
-                "Threadfin shad",
-                "American shad"
-            ],
-            "spatial": "-122.423, 37.775, -121.289, 38.601",
-            "distribution": [
-                {
-                    "@type": "Distribution",
-                    "title": "EDSM_20mm.csv",
-                    "description": "Fish catch and water quality data from 20-mm sampling by the Enhanced Delta Smelt Monitoring Program.",
-                    "format": "csv",
-                    "accessURL": "https://pasta.lternet.edu/package/data/eml/edi/415/11/d468c513fa69c4fc6ddc02e443785f28"
-                },
-                {
-                    "@type": "Distribution",
-                    "title": "EDSM_KDTR.csv",
-                    "description": "Fish catch and water quality data from Kodiak trawling by the Enhanced Delta Smelt Monitoring Program.",
-                    "format": "csv",
-                    "accessURL": "https://pasta.lternet.edu/package/data/eml/edi/415/11/4d7de6f0a38eff744a009a92083d37ae"
-                },
-                {
-                    "@type": "Distribution",
-                    "title": "EDSM_Fish_Taxonomy.csv",
-                    "description": "Taxon table for species including native or invasive classification",
-                    "format": "csv",
-                    "accessURL": "https://pasta.lternet.edu/package/data/eml/edi/415/11/613ff2b59d13cd72428cffa1a12fa3bd"
-                }
-            ],
-            "publisher": {
-                "name": "United States Fish and Wildlife Service",
-                "contactPoint": {
-                    "fn": "Macfarlane, Claudia",
-                    "hasEmail": "claudia_macfarlane@fws.gov"
-                }
+                "name": "Gilbert, Morgan; Smith, Lori; Steinhart, Geoff. 2023-12-11. Interagency Ecological Program and US Fish and Wildlife Service: Juvenile/Larval Fish and Zooplankton collections at Liberty Island, California 2002-2005 & 2013-2019. USFWS; IEP. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.987.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Gilbert, Morgan",
+                "hasEmail": "Morgan_Gilbert@fws.gov"
             }
         },
         {
@@ -2577,30 +2580,31 @@
             "issued": "2024-12-05",
             "temporal": "1976-03-08 to 2024-07-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "aquatic ecosystems",
+                "aquatic_ecosystems",
                 "ecology",
                 "estuaries",
-                "brackish water",
+                "brackish_water",
                 "freshwater",
                 "rivers",
                 "fishes",
                 "trout",
                 "abundance",
-                "endangered species",
-                "invasive species",
-                "water quality",
-                "beach seine",
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "United States Fish and Wildlife Service",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "nearshore fishes",
-                "Chinook salmon",
-                "Delta Smelt",
-                "Sacramento Splittail",
-                "Largemouth Bass",
-                "Mississippi Silverside"
+                "endangered_species",
+                "invasive_species",
+                "water_quality",
+                "beach_seine",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "United_States_Fish_and_Wildlife_Service",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "nearshore_fishes",
+                "Chinook_salmon",
+                "Delta_Smelt",
+                "Sacramento_Splittail",
+                "Largemouth_Bass",
+                "Mississippi_Silverside"
             ],
             "spatial": "-122.4899, 37.6131828, -121.176304, 39.21999207",
             "distribution": [
@@ -2641,11 +2645,85 @@
                 }
             ],
             "publisher": {
-                "name": "United States Fish and Wildlife Service",
-                "contactPoint": {
-                    "fn": "Speegle, Jonathan",
-                    "hasEmail": "jonathan_speegle@fws.gov"
+                "name": "United States Fish and Wildlife Service; Speegle, Jonathan; Macfarlane, Claudia; Huber, Eric; Goodman, Denise; Erly, Kate; Cook, Ryan. 2024-12-05. Interagency Ecological Program: Over four decades of juvenile fish monitoring data from the San Francisco Estuary, collected by the Delta Juvenile Fish Monitoring Program, 1976-2024. United States Fish and Wildlife Service. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.244.13&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Speegle, Jonathan",
+                "hasEmail": "jonathan_speegle@fws.gov"
+            }
+        },
+        {
+            "@type": "Dataset",
+            "identifier": "edi.415.11",
+            "title": "Interagency Ecological Program and US Fish and Wildlife Service: San Francisco Estuary Enhanced Delta Smelt Monitoring Program data, 2016-2023",
+            "description": " The Enhanced Delta Smelt Monitoring Program (EDSM) was initiated by the U.S. Fish and Wildlife Service in 2016. EDSM focuses on providing real-time data to help managers respond to population patterns of Delta Smelt within the upper San Francisco Estuary, primarily by providing estimates of Delta Smelt distribution and abundance. The dataset can also be useful in evaluating habitat use and behavior patterns of this species and other fish species of interest. Sampling is done year round via Kodiak trawls and larval (\u201c20-mm\u201d) gear to sample Delta Smelt across most life stages. Sites are chosen via stratified random sampling. Over the course of a week, field crews sample between 18 and 41 random sites. A minimum of two tows are conducted at each site.  All fish collected are identified (in the field when possible, in the lab for early life stages), measured, enumerated, and recorded. In addition to fish information, environmental data are collected for each sampling event. For more information: https://https://www.fws.gov/office/lodi-fish-and-wildlife",
+            "issued": "2024-10-17",
+            "temporal": "2016-12-15 to 2023-11-30",
+            "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
+            "keyword": [
+                "aquatic_ecosystems",
+                "distribution",
+                "ecology",
+                "estuaries",
+                "brackish_water",
+                "freshwater",
+                "rivers",
+                "fishes",
+                "abundance",
+                "endangered_species",
+                "invasive_species",
+                "water_quality",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "IEP",
+                "United_States_Fish_and_Wildlife_Service",
+                "USFWS",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "pelagic",
+                "fish_trawl",
+                "larval_fish",
+                "juvenile_fish",
+                "Chinook_salmon",
+                "Delta_Smelt",
+                "Longfin_Smelt",
+                "Wakasagi",
+                "Sacramento_splittail",
+                "Threadfin_shad",
+                "American_shad"
+            ],
+            "spatial": "-122.423, 37.775, -121.289, 38.601",
+            "distribution": [
+                {
+                    "@type": "Distribution",
+                    "title": "EDSM_20mm.csv",
+                    "description": "Fish catch and water quality data from 20-mm sampling by the Enhanced Delta Smelt Monitoring Program.",
+                    "format": "csv",
+                    "accessURL": "https://pasta.lternet.edu/package/data/eml/edi/415/11/d468c513fa69c4fc6ddc02e443785f28"
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "EDSM_KDTR.csv",
+                    "description": "Fish catch and water quality data from Kodiak trawling by the Enhanced Delta Smelt Monitoring Program.",
+                    "format": "csv",
+                    "accessURL": "https://pasta.lternet.edu/package/data/eml/edi/415/11/4d7de6f0a38eff744a009a92083d37ae"
+                },
+                {
+                    "@type": "Distribution",
+                    "title": "EDSM_Fish_Taxonomy.csv",
+                    "description": "Taxon table for species including native or invasive classification",
+                    "format": "csv",
+                    "accessURL": "https://pasta.lternet.edu/package/data/eml/edi/415/11/613ff2b59d13cd72428cffa1a12fa3bd"
                 }
+            ],
+            "publisher": {
+                "name": "United States Fish and Wildlife Service; Macfarlane, Claudia; Goodman, Denise; Erly, Kate; Cook, Ryan; Higginson, Paula; Bigham, Gershom; Rohlin, Taylor; Hope, Trevor; Garcia, Gabriela; Speegle, Jonathan; Huber, Eric; Arrambide, Adriana. 2024-10-17. Interagency Ecological Program and US Fish and Wildlife Service: San Francisco Estuary Enhanced Delta Smelt Monitoring Program data, 2016-2023. United States Fish and Wildlife Service. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.415.11&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Macfarlane, Claudia",
+                "hasEmail": "claudia_macfarlane@fws.gov"
             }
         },
         {
@@ -2656,10 +2734,11 @@
             "issued": "2023-04-19",
             "temporal": "2005-06-13 to 2022-10-11",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program for the San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "California Department of Fish and Wildlife",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "California_Department_of_Fish_and_Wildlife",
                 "amphipod",
                 "calanoid",
                 "cladocera",
@@ -2669,18 +2748,18 @@
                 "mysid",
                 "nauplii",
                 "estuaries",
-                "long term monitoring",
+                "long_term_monitoring",
                 "salinity",
                 "secchi",
                 "turbidity",
-                "water temperature",
+                "water_temperature",
                 "depth",
                 "zooplankton",
                 "abundance",
                 "rotifers",
                 "invertebrates",
-                "invasive species",
-                "water quality",
+                "invasive_species",
+                "water_quality",
                 "crustaceans",
                 "conductivity"
             ],
@@ -2716,11 +2795,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Burdi, Christina",
-                    "hasEmail": "Christina.Burdi@wildlife.ca.gov"
-                }
+                "name": "Burdi, Christina; Breining-Aday, Spencer; Slater, Steven. 2023-04-19. Interagency Ecological Program: Zooplankton and water quality data in the San Francisco Estuary collected by the Summer Townet and Fall Midwater Trawl monitoring programs.. California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1103.3&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Burdi, Christina",
+                "hasEmail": "Christina.Burdi@wildlife.ca.gov"
             }
         },
         {
@@ -2731,18 +2811,19 @@
             "issued": "2024-10-30",
             "temporal": "1995-04-24 to 2024-07-11",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "Delta Smelt",
-                "CDFW Stockton Labs",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "Delta_Smelt",
+                "CDFW_Stockton_Labs",
                 "estuaries",
-                "long term monitoring",
-                "endangered species",
+                "long_term_monitoring",
+                "endangered_species",
                 "fishes",
-                "population dynamics",
+                "population_dynamics",
                 "larvae",
                 "turbidity",
-                "water temperature",
+                "water_temperature",
                 "tides"
             ],
             "spatial": "-122.448966, 37.859, -121.368556, 38.28633",
@@ -2826,11 +2907,12 @@
                 }
             ],
             "publisher": {
-                "name": "Interagency Ecological Program (IEP); California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Mora, Vanessa",
-                    "hasEmail": "Vanessa.Mora@wildlife.ca.gov"
-                }
+                "name": "Brennan, Colin; Mora, Vanessa; Oceguera Zavala, Jennifer; Jimenez, Jessica. 2024-10-30. Interagency Ecological Program San Francisco Estuary 20-mm Survey 1995 - 2024. Interagency Ecological Program (IEP); California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.535.5&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Mora, Vanessa",
+                "hasEmail": "Vanessa.Mora@wildlife.ca.gov"
             }
         },
         {
@@ -2841,20 +2923,21 @@
             "issued": "2021-09-09",
             "temporal": "2002-01-07 to 2021-04-21",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Interagency Ecological Program for the San Francisco Bay Delta Estuary",
-                "Delta Smelt",
-                "CDFW Stockton Labs",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Bay_Delta_Estuary",
+                "Delta_Smelt",
+                "CDFW_Stockton_Labs",
                 "Salmon",
-                "Chinook Salmon",
+                "Chinook_Salmon",
                 "estuaries",
-                "long term monitoring",
-                "endangered species",
+                "long_term_monitoring",
+                "endangered_species",
                 "fishes",
-                "population dynamics",
+                "population_dynamics",
                 "larvae",
                 "turbidity",
-                "water temperature",
+                "water_temperature",
                 "tides"
             ],
             "spatial": "-122.309278, 37.859, -121.368556, 38.3335",
@@ -2875,11 +2958,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Damon, Lauren",
-                    "hasEmail": "Lauren.damon@wildlife.ca.gov"
-                }
+                "name": "Interagency Ecological Program (IEP); Damon, Lauren; Chorazyczewski, Adam. 2021-09-09. Interagency Ecological Program San Francisco Estuary Spring Kodiak Trawl Survey 2002 - 2021. California Department of Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.527.4&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Damon, Lauren",
+                "hasEmail": "Lauren.damon@wildlife.ca.gov"
             }
         },
         {
@@ -2890,14 +2974,15 @@
             "issued": "2024-08-02",
             "temporal": "1959-06-13 to 2024-07-28",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "estuaries",
                 "fishes",
-                "species abundance",
-                "community composition",
-                "long term monitoring",
-                "endangered species",
-                "invasive species"
+                "species_abundance",
+                "community_composition",
+                "long_term_monitoring",
+                "endangered_species",
+                "invasive_species"
             ],
             "spatial": "-122.4984841, 37.50185, -121.00969, 39.21999207",
             "distribution": [
@@ -2924,11 +3009,12 @@
                 }
             ],
             "publisher": {
-                "name": "United States Fish and Wildlife Service; California Department of Fish and Wildlife; U.S. Fish and Wildlife Service; State Water Board; Interagency Ecological Program (IEP); CDFW Water Branch; California Department of Fish and Wildlife and the Interagency Ecological Program; University of California, Davis; California department of Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Bashevkin, Samuel",
-                    "hasEmail": "sam.bashevkin@waterboards.ca.gov"
-                }
+                "name": "Bashevkin, Samuel; Nguyen, Trinh; Tham, Enoch; Gaeta, Jereme; Mitchell, Lara; Khanna, Shruti; Interagency Ecological Program (IEP); Stagg, Jacob; McKenzie, Ryan; Speegle, Jonathan; Nanninga, Adam; Holcombe, Erika; Arrambide, Adriana; Huber, Eric; Marcetti, Donald; Steinhart, Geoffrey; United States Fish and Wildlife Service; Erly, Kate; Cook, Ryan; Speegle, Jonathan; Bigham, Gershom; Supervisory Fish Biologist, Denise, Goodman; Senegal, Taylor; Damon, Lauren; Chorazyczewski, Adam; Mora, Vanessa; Oceguera Zavala, Jennifer; Jimenez, Jessica; Interagency Ecological Program (IEP); Damon, Lauren; Chorazyczewski, Adam; Siddiqui, Samreen; Assen, Geir; Afentoulis, Virginia; Griffiths, Walter; Damon, Lauren; CDFW; Teejay, O'Rear; John, Durand; Peter, Moyle; CDFW; CDFW. 2024-08-02. Fish abundance in the San Francisco Estuary (1959-2024), an integration of 10 monitoring surveys.. United States Fish and Wildlife Service; State Water Board; California Department of Fish and Wildlife and the Interagency Ecological Program; CDFW Water Branch; California Department of Fish and Wildlife; California department of Fish and Wildlife; University of California, Davis; U.S. Fish and Wildlife Service; Interagency Ecological Program (IEP). https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1075.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Bashevkin, Samuel",
+                "hasEmail": "sam.bashevkin@waterboards.ca.gov"
             }
         },
         {
@@ -2939,22 +3025,23 @@
             "issued": "2023-12-04",
             "temporal": "1959-06-13 to 2022-08-16",
             "accrualPeriodicity": "annually",
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
                 "Bay-Delta",
-                "Sacramento-San Joaquin Delta",
+                "Sacramento-San_Joaquin_Delta",
                 "Estuaries",
-                "Long Term Monitoring",
-                "California Department of Fish and Wildlife",
+                "Long_Term_Monitoring",
+                "California_Department_of_Fish_and_Wildlife",
                 "Fishes",
-                "Aquatic Ecosystems",
-                "Delta Smelt",
-                "Striped Bass",
+                "Aquatic_Ecosystems",
+                "Delta_Smelt",
+                "Striped_Bass",
                 "Townet",
-                "Water Temperature",
-                "Secchi Depth",
-                "Specific Conductivity",
-                "Invasive Species",
-                "Interagency Ecological Program for the San Francisco Estuary"
+                "Water_Temperature",
+                "Secchi_Depth",
+                "Specific_Conductivity",
+                "Invasive_Species",
+                "Interagency_Ecological_Program_for_the_San_Francisco_Estuary"
             ],
             "spatial": "-122.292, 37.8614, -121.369, 38.5376",
             "distribution": [
@@ -2974,11 +3061,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Fish and Wildlife",
-                "contactPoint": {
-                    "fn": "Slater, Steven",
-                    "hasEmail": "steve.slater@wildlife.ca.gov"
-                }
+                "name": "Malinich, Timothy; White, James; Slater, Steven; Breining-Aday, Spencer; Ugbah, Nene. 2023-12-04. Interagency Ecological Program: Summer Townet Survey for Young Pelagic Fishes in the San Francisco Estuary. California Fish and Wildlife. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.1413.1&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Slater, Steven",
+                "hasEmail": "steve.slater@wildlife.ca.gov"
             }
         },
         {
@@ -2989,34 +3077,35 @@
             "issued": "2021-12-09",
             "temporal": "1999-03-04 to 2018-12-31",
             "accrualPeriodicity": null,
+            "license": "Creative Commons Non-Commercial (Any)",
             "keyword": [
-                "Yolo Bypass",
-                "San Francisco Estuary",
-                "Sacramento-San Joaquin Delta",
-                "Yolo Bypass Fish Monitoring Program",
-                "California Department of Water Resources",
-                "Interagency Ecological Program",
+                "Yolo_Bypass",
+                "San_Francisco_Estuary",
+                "Sacramento-San_Joaquin_Delta",
+                "Yolo_Bypass_Fish_Monitoring_Program",
+                "California_Department_of_Water_Resources",
+                "Interagency_Ecological_Program",
                 "copepods",
                 "calanoids",
                 "cladocera",
-                "lower trophic monitoring",
-                "floodplain https://vocab.lternet.edu/vocab/vocab/index.php",
-                "aquatic ecosystems",
+                "lower_trophic_monitoring",
+                "floodplain_https___vocab.lternet.edu_vocab_vocab_index.php",
+                "aquatic_ecosystems",
                 "freshwater",
                 "ecology",
                 "estuaries",
                 "rivers",
                 "seasonality",
-                "long term",
+                "long_term",
                 "communities",
-                "food webs",
+                "food_webs",
                 "surveys",
                 "weather",
                 "turbidity",
                 "ph",
-                "electrical conductivity",
-                "water temperature",
-                "water quality",
+                "electrical_conductivity",
+                "water_temperature",
+                "water_quality",
                 "crustaceans",
                 "invertebrates",
                 "zooplankton"
@@ -3046,11 +3135,12 @@
                 }
             ],
             "publisher": {
-                "name": "California Department of Water Resources",
-                "contactPoint": {
-                    "fn": "Pien, Catarina",
-                    "hasEmail": "Catarina.Pien@water.ca.gov"
-                }
+                "name": "Interagency Ecological Program; Pien, Catarina; Adams, Jesse; Kwan, Nicole. 2021-12-09. Interagency Ecological Program: Zooplankton catch and water quality data from the Sacramento River floodplain and tidal slough, collected by the Yolo Bypass Fish Monitoring Program, 1998-2018. California Department of Water Resources. https://portal.edirepository.org/nis/mapbrowse?packageid=edi.494.2&contentType=application/xml."
+            },
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": "Pien, Catarina",
+                "hasEmail": "Catarina.Pien@water.ca.gov"
             }
         }
     ]
